@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFactorial", "BigFactoria
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistanceBetweenPoint", "DistanceBetweenPoint\DistanceBetweenPoint.csproj", "{DF7A1672-BD8B-4838-8BA6-CE59F9BE5FCB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClosestTwoPoints", "ClosestTwoPoints\ClosestTwoPoints.csproj", "{55FCBDBE-8527-4677-B572-C177D0E98797}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{DF7A1672-BD8B-4838-8BA6-CE59F9BE5FCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF7A1672-BD8B-4838-8BA6-CE59F9BE5FCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF7A1672-BD8B-4838-8BA6-CE59F9BE5FCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55FCBDBE-8527-4677-B572-C177D0E98797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55FCBDBE-8527-4677-B572-C177D0E98797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55FCBDBE-8527-4677-B572-C177D0E98797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55FCBDBE-8527-4677-B572-C177D0E98797}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
